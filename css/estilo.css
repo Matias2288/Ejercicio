@@ -21,3 +21,8 @@ img{
 .img{
     text-align: center;
 }
+footer{
+    color: white;
+    background-color: rgb(40, 40, 107);
+    padding: 1rem;
+}
